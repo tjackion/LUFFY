@@ -54,7 +54,7 @@ LUFFY/
 - **FSDP Training**: Model loading and distributed training setup
 - **Data Processing**: ✅ Batch dimension folding/unfolding completed (optimizations and edge case handling still pending)
 
-### 📝 Complete TODO List
+#### 📝 Complete TODO List
 
 Total active TODO items: **165** (sorted by lexicographical ascending file path, line number ascending within files)
 
