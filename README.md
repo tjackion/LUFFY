@@ -56,7 +56,7 @@ LUFFY/
 
 ### 📝 Complete TODO List
 
-Total active TODO items: **165** (updated from actual codebase scan)
+Total active TODO items: **165** (sorted by lexicographical ascending file path, line number ascending within files)
 
 - [ ] **luffy/deepscaler/utils.py:45** - Add logging for API calls and errors
 - [ ] **luffy/deepscaler/utils.py:46** - Support batch processing for multiple prompts
